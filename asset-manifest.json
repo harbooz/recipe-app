@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harbooz/recipe-app/static/css/main.8d9ebfbb.css",
+    "main.js": "/harbooz/recipe-app/static/js/main.1e007fe7.js",
+    "index.html": "/harbooz/recipe-app/index.html",
+    "main.8d9ebfbb.css.map": "/harbooz/recipe-app/static/css/main.8d9ebfbb.css.map",
+    "main.1e007fe7.js.map": "/harbooz/recipe-app/static/js/main.1e007fe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d9ebfbb.css",
+    "static/js/main.1e007fe7.js"
+  ]
+}
